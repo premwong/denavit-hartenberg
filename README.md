@@ -1,1 +1,2 @@
-# denavit-hartenberg
+# Small Forward Kinematics solver web app
+npm start
