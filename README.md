@@ -1,2 +1,2 @@
-# Small Forward Kinematics solver web app
-npm start
+#Forward Kinematics solver
+Small forward kinematics solver web app. npm start
